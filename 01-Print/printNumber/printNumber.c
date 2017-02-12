@@ -1,3 +1,5 @@
+/* Print any number from 1 to 100. */
+
 #include <stdio.h>
 
 main(){
@@ -11,7 +13,7 @@ main(){
 
     if(i%10 == 0) {
       printf("\n");
-    }
+    } //new line
   }
 
 }//main()
