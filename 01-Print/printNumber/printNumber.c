@@ -1,4 +1,4 @@
-/* Print any number from 1 to 100. */
+/* Print numbers from 1 to 100. */
 
 #include <stdio.h>
 
