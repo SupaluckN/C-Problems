@@ -9,12 +9,12 @@ int main(void) {
   printf("\n");
 
   if(factorial == 0) {
-    printf("%d! = 1\n", factorial);
+    printf("\t%d! = 1\n", factorial);
   } else {
     num =1;
     for(i=1;i<=factorial;i++) {
       num *= i;
     }
-    printf("%d! = %d\n", factorial, num);
+    printf("\t%d! = %d\n", factorial, num);
   }
 }//int main(void)
