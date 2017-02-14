@@ -1,4 +1,4 @@
-/* Find the factorial number of any number*/
+/* Find a factorial number of any number*/
 #include <stdio.h>
 
 int main(void) {
