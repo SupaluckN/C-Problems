@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-main() {
+int main(void) {
   int i, number = 0;
 
   printf("\n-------- Odd ---------------\n");
