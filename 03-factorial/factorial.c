@@ -4,7 +4,7 @@
 int main(void) {
   int factorial, i, num;
 
-  printf("\n Input positive number or zero :");
+  printf("\n Input a positive number or a zero :");
   scanf("%d",&factorial);
   printf("\n");
 
