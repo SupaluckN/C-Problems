@@ -16,4 +16,6 @@ int main(void) {
     if(i%10==0) printf("\n\n");
   }//The loop
 
+  return 0;
+
 }//main
