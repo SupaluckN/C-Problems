@@ -17,4 +17,6 @@ int main(void) {
     }
     printf("\t%d! = %d\n", factorial, num);
   }
+
+  return 0;
 }//int main(void)
